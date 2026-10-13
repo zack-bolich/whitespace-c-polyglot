@@ -1,3 +1,5 @@
+![Two interpreters. One output. Same bytes. Different bites. Pixel-art chocolate and vanilla soft serve.](assets/banner.png)
+
 # whitespace-c-polyglot
 
 A `Hello World` that runs two ways from one file.
